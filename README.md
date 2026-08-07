@@ -66,7 +66,3 @@ File category is determined by **path** in JSON (priority), then by extension an
 | Incomplete files left on disk | Deleted on failure or hash mismatch |
 | No error summary | List of failed files at the end + `exit 1` |
 | No pack information | Displays pack name, version, and Minecraft version |
-
-## License
-
-MIT
